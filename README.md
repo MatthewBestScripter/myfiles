@@ -1,0 +1,2 @@
+# thingOK
+just my CONFIGS
