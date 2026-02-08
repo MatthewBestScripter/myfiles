@@ -20,4 +20,6 @@ dmenu
 
 alacritty
 
+nftables
+
 git clone https://github.com/MatthewBestScripter/thingOK
