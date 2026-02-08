@@ -1,0 +1,5 @@
+[window]
+opacity = 0.88
+
+[font]
+normal = { family = "Tamsyn", style = "Regular" }
