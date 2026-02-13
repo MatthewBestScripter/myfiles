@@ -22,4 +22,4 @@ alacritty
 
 nftables
 
-git clone https://github.com/MatthewBestScripter/thingOK
+git clone https://github.com/MatthewBestScripter/myfiles
